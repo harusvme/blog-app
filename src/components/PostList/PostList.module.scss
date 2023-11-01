@@ -1,0 +1,36 @@
+.post {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 4px;
+
+  h3 {
+    margin: 8px 0;
+  }
+
+  p {
+    color: #999;
+  }
+
+  a {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 8px;
+
+    &:hover {
+      background-color: #0056b3;
+      color: #fff;
+    }
+  }
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
