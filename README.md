@@ -9,3 +9,5 @@ SPA that uses infinite scrolling loading of posts based on JSON Placeholder data
 - react-router-dom
 - rtk query
 - scss
+### deploy
+https://harusvme.github.io/blog-app/#/
